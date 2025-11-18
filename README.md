@@ -4,18 +4,14 @@
 </p>
 
 ---
-<div style="display: flex; justify-content: center; gap: 10px">
+<p align="center">
+  [![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/)
+  [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau)
+  [![GitHub](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoangCau-147)
+</p>
 
-[![email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvcau.work@gmail.com)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/)
-
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau)
-
-[![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://www.facebook.com/hg.cau)
-</div>
-
-#### (ノ^∇^)  Glad to see you here! 
+### (ノ^∇^)  Glad to see you here! 
 I'm Hoàng Văn Cầu, a passionate **Frontend Engineer** with a strong focus on **JavaScript** and **modern web frameworks**. With a solid foundation in software engineering and a mindset of continuous improvement, I strive to build clean, scalable, and high-performance web applications that provide excellent user experiences and solve real-world problems.
 
 🚀 I am currently **seeking opportunities** where I can further enhance my skills, contribute effectively, and progress toward becoming a well-rounded Software Engineer.
