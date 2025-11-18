@@ -1,11 +1,13 @@
 <!-- BANNER-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/banner.svg" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/banner.svg" alt="banner"/>
 </p>
 
 ---
 <p align='center'>
- [![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/) [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau) [![GitHub](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoangCau-147)  
+
+ [![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/) [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau) [![GitHub](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoangCau-147) 
+
 </p>
 
 ### (ノ^∇^)  Glad to see you here! 
@@ -15,22 +17,16 @@ I'm Hoàng Văn Cầu, a passionate **Frontend Engineer** with a strong focus on
 
 ---
 ## 🙋‍♂️ ABOUT ME
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    🎓 Bachelor of Software Engineering, University of Science - VNUHCM
-with GPA: 3.37/4.00
-    <br/>
-    <br/>
-    💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
-    <br/>
-    <br/>
-    📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.
-  </div>
 
-  <div>
-    <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="200" height="200"/>
-  </div>
-</div>
+🎓 Bachelor of Software Engineering, University of Science - VNUHCM
+with GPA: 3.37/4.00
+
+💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
+
+📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.
+<a href="#">
+    <img align="right" src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="200" height="200"/>
+</a>
 
 ---
 
@@ -74,12 +70,8 @@ The following technologies represent the areas in which I have applied my skills
 - Achievements: Built front-end components, implemented back-end CRUD APIs, applied DI & Repository pattern, and followed professional Git workflow.
 
 ---
-<div style="text-align: right; text-transform: uppercase;">
- <blockquote style="border-left: 4px solid #ccc; padding-left: 10px; color: #555;">
-  <h3 style="margin-right: 80px;">Work Journey So Far</h3>
-  <h3>Excited for What’s Next...</h3>
-  </blockquote>
-</div>
+<h3 align="right">Work Journey So Far&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+<h3 align="right" >Excited for What’s Next...</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/bottom.svg" alt="bottom" width="100%"/>
