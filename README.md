@@ -5,10 +5,15 @@
 
 ---
 <p align="center">
+  
   [![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/)
+  
   [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau)
+  
   [![GitHub](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoangCau-147)
+  
 </p>
 
 ### (ノ^∇^)  Glad to see you here! 
