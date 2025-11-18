@@ -1,3 +1,8 @@
+<!-- BANNER-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.svg" alt="banner" />
+</p>
+
 ## Hi there 👋
 
 <!--
