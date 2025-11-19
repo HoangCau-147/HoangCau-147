@@ -31,33 +31,33 @@
 
 ---
 ## 🙋‍♂️ ABOUT ME
-<table> 
-    <tr> 
-        <td width="60%" valign="top">        
-            🎓 Bachelor of Software Engineering, University of Science - VNUHCM
-            with GPA: 3.37/4.00
-            <br/>
-            <br/> 
-            💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
-            <br/>
-            <br/>
-            📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.        
-        </td>
-        <!-- Banner GIF -->
-        <td width="40%" align="center">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+        🎓 Bachelor of Software Engineering, University of Science - VNUHCM with GPA: 3.37/4.00
+        <br/> <br/>
+        💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
+        <br/> <br/>
+        📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.
+        <br/> <br/>
+        <div align="center">
             <a href="#">
-                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="300" height="300"/>
+                    <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.reactions.svg"/>
             </a>
-        </td>
-    </tr> 
+        </div>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="320" style="border-radius:15px;"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## </👨🏻‍💻> EXPERIENCE 
-Throughout my academic journey and professional work, I have actively engaged with a variety of technologies, gaining practical hands-on experience and a solid understanding of modern development practices. 
+&nbsp;&nbsp;&nbsp;&nbsp; Throughout my academic journey and professional work, I have actively engaged with a variety of technologies, gaining practical hands-on experience and a solid understanding of modern development practices. 
 
-The following technologies represent the areas in which I have applied my skills extensively:
+&nbsp;&nbsp;&nbsp;&nbsp; The following technologies represent the areas in which I have applied my skills extensively:
 
 - <img src="https://img.shields.io/badge/Algorithm & Programing-white?labelColor=black" alt="Algorithm & Programing">
     <img src="https://img.shields.io/badge/-OOP -- C%23 -- Python -- JavaScript -- C/C++-grey" alt="OOP, C#, Python, JavaScript, C/C++">
@@ -83,7 +83,7 @@ The following technologies represent the areas in which I have applied my skills
         </td>
         <td>
             <a href="#">
-                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.habits.svg"/>
+                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.reactions.svg"/>
             </a>
         </td>
     </tr>

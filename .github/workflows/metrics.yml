@@ -42,6 +42,16 @@ jobs:
           
           config_timezone: Asia/Ho_Chi_Minh
 
+      # 3) Comment reactions
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+
       # Commit
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v4
