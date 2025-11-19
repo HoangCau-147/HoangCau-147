@@ -43,6 +43,28 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
+      # 4) Languages activity
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.plugin.languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_ignored: vendor, node_modules, .husky, .github, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 60
+
+          commits_authoring: |
+            Hoang Cau,
+            hoangcau14783@gmail.com,
+            HoangCau-147@users.noreply.github.com,
+            147983597+HoangCau-147@users.noreply.github.com,
+            hoàng cầu, hoàng văn cầu, Cau Hoang
+          
+
       # Commit
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v4

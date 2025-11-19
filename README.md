@@ -89,6 +89,9 @@
     </tr>
 </table>
 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.languages.indepth.svg"/>
+</a>
 
 ## 📂 PROJECTS HIGHLIGHT
 ### Store Recommendation System
@@ -112,8 +115,10 @@
 
 ---
 
-<h3 align="right">Work Journey So Far&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-<h3 align="right" >Excited for What’s Next...</h3>
+<div align="right" style="text-transform: uppercase">
+    <h3 style="margin-right: 100px;">Work Journey So Far</h3>
+    <h3>Excited for What’s Next...</h3>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/bottom.svg" alt="bottom" width="100%"/>
