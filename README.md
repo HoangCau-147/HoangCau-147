@@ -58,6 +58,7 @@
 Throughout my academic journey and professional work, I have actively engaged with a variety of technologies, gaining practical hands-on experience and a solid understanding of modern development practices. 
 
 The following technologies represent the areas in which I have applied my skills extensively:
+
 - <img src="https://img.shields.io/badge/Algorithm & Programing-white?labelColor=black" alt="Algorithm & Programing">
     <img src="https://img.shields.io/badge/-OOP -- C%23 -- Python -- JavaScript -- C/C++-grey" alt="OOP, C#, Python, JavaScript, C/C++">
 
@@ -73,7 +74,16 @@ The following technologies represent the areas in which I have applied my skills
 - <img src="https://img.shields.io/badge/DevOps & Tools-white?labelColor=black" alt="DevOps & Tools">
     <img src="https://img.shields.io/badge/-Git/Github -- Docker -- Postman -- Elastichsearch -- Jira -- Power BI -- Figma-grey" alt="Git/Github, Docker, Postman, Elastichsearch, Jira, Power BI, Figma">
 
----
+<table>
+    <tr>
+        <td>
+            <a href="#">
+                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.isocalendar.svg"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 ## 📂 PROJECTS HIGHLIGHT
 ### Store Recommendation System
