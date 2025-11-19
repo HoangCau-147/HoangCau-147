@@ -4,33 +4,57 @@
 </p>
 
 ---
-<p align='center'>
 
- [![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangcau/) [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hg.cau) [![GitHub](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoangCau-147) 
+<div align="center" style="margin: 30px 0;">
 
-</p>
+**Catch me on** ✨
 
-### (ノ^∇^)  Glad to see you here! 
-I'm Hoàng Văn Cầu, a passionate **Frontend Engineer** with a strong focus on **JavaScript** and **modern web frameworks**. With a solid foundation in software engineering and a mindset of continuous improvement, I strive to build clean, scalable, and high-performance web applications that provide excellent user experiences and solve real-world problems.
+<a href="mailto:hvcau.work@gmail.com">
+  <img src="https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hoangcau/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/hg.cau">
+  <img src="https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/HoangCau-147">
+  <img src="https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+### &nbsp;&nbsp;&nbsp;&nbsp; (ノ^∇^)  Glad to see you here! 
+&nbsp;&nbsp;&nbsp;&nbsp; I'm **Hoàng Văn Cầu**, a passionate **Frontend Engineer** with a strong focus on **JavaScript** and **modern web frameworks**. With a solid foundation in software engineering and a mindset of continuous improvement, I strive to build clean, scalable, and high-performance web applications that provide excellent user experiences and solve real-world problems.
 
 🚀 I am currently **seeking opportunities** where I can further enhance my skills, contribute effectively, and progress toward becoming a well-rounded Software Engineer.
 
 ---
 ## 🙋‍♂️ ABOUT ME
-
-🎓 Bachelor of Software Engineering, University of Science - VNUHCM
-with GPA: 3.37/4.00
-
-💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
-
-📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.
-<a href="#">
-    <img align="right" src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="200" height="200"/>
-</a>
+<table> 
+    <tr> 
+        <td width="60%" valign="top">        
+            🎓 Bachelor of Software Engineering, University of Science - VNUHCM
+            with GPA: 3.37/4.00
+            <br/>
+            <br/> 
+            💼 Currently working at Frontend Engineer Position (ReactJS, Angular, NextJS)
+            <br/>
+            <br/>
+            📚🎓🧠 Actively expanding my skills in Backend development to become a full-stack software engineer, aiming to deliver complete, end-to-end solutions.        
+        </td>
+        <!-- Banner GIF -->
+        <td width="40%" align="center">
+            <a href="#">
+                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/banner.gif" width="300" height="300"/>
+            </a>
+        </td>
+    </tr> 
+</table>
 
 ---
 
-## EXPERIENCE 
+## </👨🏻‍💻> EXPERIENCE 
 Throughout my academic journey and professional work, I have actively engaged with a variety of technologies, gaining practical hands-on experience and a solid understanding of modern development practices. 
 
 The following technologies represent the areas in which I have applied my skills extensively:
@@ -49,7 +73,9 @@ The following technologies represent the areas in which I have applied my skills
 - <img src="https://img.shields.io/badge/DevOps & Tools-white?labelColor=black" alt="DevOps & Tools">
     <img src="https://img.shields.io/badge/-Git/Github -- Docker -- Postman -- Elastichsearch -- Jira -- Power BI -- Figma-grey" alt="Git/Github, Docker, Postman, Elastichsearch, Jira, Power BI, Figma">
 
-## PROJECTS HIGHLIGHT
+---
+
+## 📂 PROJECTS HIGHLIGHT
 ### Store Recommendation System
 > A personalized e-commerce recommendation system analyzing user behavior and store metrics. 
 - Role: Front-end & Team Leader 
@@ -70,6 +96,7 @@ The following technologies represent the areas in which I have applied my skills
 - Achievements: Built front-end components, implemented back-end CRUD APIs, applied DI & Repository pattern, and followed professional Git workflow.
 
 ---
+
 <h3 align="right">Work Journey So Far&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 <h3 align="right" >Excited for What’s Next...</h3>
 
