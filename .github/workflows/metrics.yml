@@ -30,14 +30,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           filename: svg/metrics.plugin.habits.svg
-          base: activity
+          base: ""
 
           plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
+          plugin_habits_days: 7
+          plugin_habits_from: 50
           config_timezone: Asia/Ho_Chi_Minh
 
       # Commit
