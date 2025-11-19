@@ -32,6 +32,9 @@ jobs:
           base: ""
 
           plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 7
+          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, ref/delete, review, comment, star, public, member
 
       # 3) Comment reactions
       - uses: lowlighter/metrics@latest
@@ -42,6 +45,16 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
+
+      # 4) Wakatime
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       # Commit
       - name: Commit generated metrics
