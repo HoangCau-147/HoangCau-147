@@ -81,6 +81,11 @@ The following technologies represent the areas in which I have applied my skills
                 <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.isocalendar.svg"/>
             </a>
         </td>
+        <td>
+            <a href="#">
+                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.habits.svg"/>
+            </a>
+        </td>
     </tr>
 </table>
 
