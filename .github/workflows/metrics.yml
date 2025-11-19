@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: svg/metrics.plugin.isocalendar.svg
           token: ${{ secrets.ISOMETRIC_COMMIT_CALENDAR_TOKEN }}
           base: ""
           plugin_isocalendar: yes
