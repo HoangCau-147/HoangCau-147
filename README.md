@@ -76,15 +76,12 @@
 
 <table>
     <tr>
-        <td>
+        <td width="50%" align="center" valign="middle">
             <a href="#">
                 <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.isocalendar.svg"/>
             </a>
         </td>
-        <td>
-            <a href="#">
-                <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.activity.svg"/>
-            </a>
+        <td width="50%" align="center" valign="middle">
             <a href="#">
                 <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.wakatime.svg"/>
             </a>

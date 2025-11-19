@@ -23,20 +23,7 @@ jobs:
 
           plugin_isocalendar: yes
 
-      # 2) 📰 Recent activity
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          filename: svg/metrics.plugin.activity.svg
-          base: ""
-
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 7
-          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, ref/delete, review, comment, star, public, member
-
-      # 3) Comment reactions
+      # 2) Comment reactions
       - uses: lowlighter/metrics@latest
         with:
           filename: svg/metrics.plugin.reactions.svg
@@ -46,7 +33,7 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      # 4) Wakatime
+      # 3) Wakatime
       - uses: lowlighter/metrics@latest
         with:
           filename: svg/metrics.plugin.wakatime.svg
