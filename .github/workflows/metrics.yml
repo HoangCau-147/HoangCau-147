@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           filename: svg/metrics.plugin.habits.svg
-          base: ""
+          base: activity
 
           plugin_habits: yes
           plugin_habits_from: 100
