@@ -89,7 +89,7 @@
     </tr>
 </table>
 
-<div style="text-align: center;">
+<div align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/HoangCau-147/HoangCau-147/main/svg/metrics.plugin.languages.indepth.svg" style="margin:0 auto; display:block;" />
 </div>
 
